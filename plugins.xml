@@ -7,10 +7,10 @@
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <qgis_maximum_version>3.99</qgis_maximum_version>
         <homepage><![CDATA[https://github.com/nitraM1973/ValGIS]]></homepage>
-        <file_name>ValGIS.3.0.zip</file_name>
+        <file_name>ValGIS.zip</file_name>
         <icon>https://raw.githubusercontent.com/nitraM1973/ValGIS/main/appicon.svg</icon>
         <author_name><![CDATA[Jose Martin Vazquez Morandeira (nitraM)]]></author_name>
-        <download_url>https://nitram1973.github.io/qgis-plugins/ValGIS/ValGIS.3.0.zip</download_url>
+        <download_url>https://nitram1973.github.io/qgis-plugins/ValGIS/ValGIS.zip</download_url>
         <uploaded_by><![CDATA[nitraM]]></uploaded_by>
         <create_date>2025-12-10</create_date>
         <update_date>2025-12-10</update_date>
