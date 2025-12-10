@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+    <pyqgis_plugin name="ValGIS" version="3.0">
+        <description><![CDATA[Limpieza topologica y generacion de poligonos]]></description>
+        <about><![CDATA[Herramienta paso a paso para limpiar DXF y crear topologias tanto de poligonos como de clases. Para facilitar el proceso se pueden usar los archivos LAS de exportacion de estados de capas de ZWCAD: recintos.las y clases.las.]]></about>
+        <version>3.0</version>
+        <qgis_minimum_version>3.0</qgis_minimum_version>
+        <qgis_maximum_version>3.99</qgis_maximum_version>
+        <homepage><![CDATA[https://github.com/nitraM1973/ValGIS]]></homepage>
+        <file_name>ValGIS.3.0.zip</file_name>
+        <icon>https://raw.githubusercontent.com/nitraM1973/ValGIS/main/appicon.svg</icon>
+        <author_name><![CDATA[Jose Martin Vazquez Morandeira (nitraM)]]></author_name>
+        <download_url>https://nitram1973.github.io/qgis-plugins/ValGIS/ValGIS.3.0.zip</download_url>
+        <uploaded_by><![CDATA[nitraM]]></uploaded_by>
+        <create_date>2025-12-10</create_date>
+        <update_date>2025-12-10</update_date>
+        <experimental>False</experimental>
+        <deprecated>False</deprecated>
+        <tracker><![CDATA[https://github.com/nitraM1973/ValGIS/issues]]></tracker>
+        <repository><![CDATA[https://github.com/nitraM1973/ValGIS]]></repository>
+        <tags><![CDATA[topology,dxf,cleaning,cad,catastro]]></tags>
+        <category>Vector</category>
+    </pyqgis_plugin>
+</plugins>
