@@ -10,10 +10,8 @@
         <file_name>ValGIS.zip</file_name>
         <icon>https://raw.githubusercontent.com/nitraM1973/ValGIS/main/appicon.svg</icon>
         <author_name><![CDATA[Jose Martin Vazquez Morandeira (nitraM)]]></author_name>
-        
         <!-- CRÍTICO: Esta URL debe ser correcta -->
         <download_url>https://nitram1973.github.io/nitraM/ValGIS/ValGIS.zip</download_url>
-        
         <uploaded_by><![CDATA[nitraM]]></uploaded_by>
         <create_date>2025-12-10</create_date>
         <update_date>2025-12-10</update_date>
