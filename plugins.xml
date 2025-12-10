@@ -8,7 +8,7 @@
         <qgis_maximum_version>3.99</qgis_maximum_version>
         <homepage><![CDATA[https://github.com/nitraM1973/ValGIS]]></homepage>
         <file_name>ValGIS.zip</file_name>
-        <icon>https://raw.githubusercontent.com/nitraM1973/ValGIS/main/appicon.png</icon>
+        <icon>https://nitram1973.github.io/nitraM/icons/ValGIS.png</icon>
         <author_name><![CDATA[Jose Martin Vazquez Morandeira (nitraM)]]></author_name>
         <!-- CRÍTICO: Esta URL debe ser correcta -->
         <download_url>https://nitram1973.github.io/nitraM/ValGIS/ValGIS.zip</download_url>
