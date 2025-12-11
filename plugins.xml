@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="plugins.xsl" ?>
 <plugins>
+    <!-- ValGIS Plugin -->
     <pyqgis_plugin name="ValGIS" version="3.0">
         <description><![CDATA[Limpieza topologica y generacion de poligonos]]></description>
         <about><![CDATA[Herramienta paso a paso para limpiar DXF y crear topologias]]></about>
@@ -22,6 +24,8 @@
         <tags><![CDATA[topology,dxf,cleaning,cad,catastro]]></tags>
         <category>Vector</category>
     </pyqgis_plugin>
+
+    <!-- InfCAD Plugin -->
     <pyqgis_plugin name="InfCAD" version="1.0">
         <description><![CDATA[Herramientas de procesamiento para proyectos InfCOP. Limpieza, conversión a líneas y gestión de atributos LAYER]]></description>
         <about><![CDATA[Plugin para procesar shapefiles de InfCOP, corregir geometrías, integrar edificaciones y generar líneas limpias para DXF]]></about>
