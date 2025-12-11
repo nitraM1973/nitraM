@@ -21,7 +21,7 @@ Este plugin compara dos capas vectoriales, identifica diferencias geometricas y 
 2. Ir a: **Complementos** → **Administrar** → **Configuración**
 3. Click **Añadir**
 4. Nombre: el que quieras para identificar este repositorio de otros
-5. URL: [:](https://nitram1973.github.io/nitraM/plugins.xml)
+5. URL: **https://nitram1973.github.io/nitraM/plugins.xml**
 6. Parámetros: lo que salga por defecto
 7. Autenticación: Sin Autenticación
 8. Activado: checkado
