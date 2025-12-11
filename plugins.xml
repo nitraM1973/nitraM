@@ -39,7 +39,7 @@
         <uploaded_by><![CDATA[nitraM]]></uploaded_by>
         <create_date>2025-12-11</create_date>
         <update_date>2025-12-11</update_date>
-        <experimental>True</experimental>
+        <experimental>False</experimental>
         <deprecated>False</deprecated>
         <tracker><![CDATA[https://github.com/nitraM1973/InfCAD/issues]]></tracker>
         <repository><![CDATA[https://github.com/nitraM1973/InfCAD]]></repository>
@@ -62,7 +62,7 @@
         <uploaded_by><![CDATA[nitraM]]></uploaded_by>
         <create_date>2025-12-11</create_date>
         <update_date>2025-12-11</update_date>
-        <experimental>True</experimental>
+        <experimental>False</experimental>
         <deprecated>False</deprecated>
         <tracker><![CDATA[https://github.com/nitraM1973/ComGIS/issues]]></tracker>
         <repository><![CDATA[https://github.com/nitraM1973/ComGIS]]></repository>
