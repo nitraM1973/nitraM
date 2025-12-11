@@ -6,23 +6,30 @@ Repositorio personalizado de plugins QGIS.
 Herramienta de limpieza topológica y generación de polígonos.
 - **Versión**: 3.0
 - **QGIS**: 3.0 - 3.99
-- **Repositorio**: https://github.com/nitraM1973/ValGIS
-- **Documentación**: [README](https://github.com/nitraM1973/ValGIS)
+### InfCAD v1.0
+Plugin para procesar shapefiles de InfCOP, corregir geometrías, integrar edificaciones y generar líneas limpias para DXF.
+- **Versión**: 1.0
+- **QGIS**: 3.0 - 3.99
+### ComGIS v1.0
+Este plugin compara dos capas vectoriales, identifica diferencias geometricas y genera un reporte HTML detallado.
+- **Versión**: 1.0
+- **QGIS**: 3.0 - 3.99
+
 ## 🔧 Cómo Usar Este Repositorio
 ### En QGIS:
 1. Abrir QGIS
-2. Ir a: **Complementos** → **Administrar e instalar complementos**
-3. Pestaña **Configuración**
-4. Click en **Añadir** (repositorios de complementos)
-5. Configurar:
-   - **Nombre**: nitraM Plugins
-   - **URL**: `https://nitram1973.github.io/qgis-plugins/plugins.xml`
-6. Click **Aceptar**
-7. Ir a pestaña **Todos**
-8. Buscar "ValGIS"
-9. Instalar
+2. Ir a: **Complementos** → **Administrar** → **Configuración**
+3. Click **Añadir**
+4. Nombre: el que quieras para identificar este repositorio de otros
+5. URL: [:](https://nitram1973.github.io/nitraM/plugins.xml)
+6. Parámetros: lo que salga por defecto
+7. Autenticación: Sin Autenticación
+8. Activado: checkado
+9. CLick **Aceptar**
+10. Ir a **Todos**
+11. Buscar por nombre: **ValGIS**, **ComGIS**, **InfCAD**
 ## 📝 Actualizaciones
 Este repositorio se actualiza automáticamente cuando se publican nuevas versiones.
 ## 📧 Contacto
 - **Autor**: José Martín Vázquez Morandeira
-- **GitHub**: https://github.com/nitraM1973
+- **mail**: jvazque3@tragsa.es
