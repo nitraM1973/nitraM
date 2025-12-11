@@ -47,7 +47,7 @@
         <category>Vector</category>
     </pyqgis_plugin>
 
-    <!-- InfCAD Plugin -->
+    <!-- ComGIS Plugin -->
     <pyqgis_plugin name="ComGIS" version="1.0">
         <description><![CDATA[Plugin para comparar shapefiles (Lineas y Poligonos), detectar diferencias y generar reportes]]></description>
         <about><![CDATA[Este plugin compara dos capas vectoriales, identifica diferencias geometricas y genera un reporte HTML detallado.]]></about>
