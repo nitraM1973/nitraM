@@ -46,4 +46,27 @@
         <tags><![CDATA[topology,dxf,cleaning,cad,infcop]]></tags>
         <category>Vector</category>
     </pyqgis_plugin>
+
+    <!-- InfCAD Plugin -->
+    <pyqgis_plugin name="ComGIS" version="1.0">
+        <description><![CDATA[Plugin para comparar shapefiles (Lineas y Poligonos), detectar diferencias y generar reportes]]></description>
+        <about><![CDATA[Este plugin compara dos capas vectoriales, identifica diferencias geometricas y genera un reporte HTML detallado.]]></about>
+        <version>1.0</version>
+        <qgis_minimum_version>3.0</qgis_minimum_version>
+        <qgis_maximum_version>3.99</qgis_maximum_version>
+        <homepage><![CDATA[https://github.com/nitraM1973/ComGIS]]></homepage>
+        <file_name>ComGIS.zip</file_name>
+        <icon></icon>
+        <author_name><![CDATA[Jose Martin Vazquez Morandeira (nitraM)]]></author_name>
+        <download_url>https://nitram1973.github.io/nitraM/ComGIS/ComGIS.zip</download_url>
+        <uploaded_by><![CDATA[nitraM]]></uploaded_by>
+        <create_date>2025-12-11</create_date>
+        <update_date>2025-12-11</update_date>
+        <experimental>True</experimental>
+        <deprecated>False</deprecated>
+        <tracker><![CDATA[https://github.com/nitraM1973/ComGIS/issues]]></tracker>
+        <repository><![CDATA[https://github.com/nitraM1973/ComGIS]]></repository>
+        <tags><![CDATA[topology,dxf,cleaning,cad,comparar]]></tags>
+        <category>Vector</category>
+    </pyqgis_plugin>
 </plugins>
