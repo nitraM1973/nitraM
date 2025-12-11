@@ -12,7 +12,6 @@
         <file_name>ValGIS.zip</file_name>
         <icon></icon>
         <author_name><![CDATA[Jose Martin Vazquez Morandeira (nitraM)]]></author_name>
-        <!-- CRÍTICO: Esta URL debe ser correcta -->
         <download_url>https://nitram1973.github.io/nitraM/ValGIS/ValGIS.zip</download_url>
         <uploaded_by><![CDATA[nitraM]]></uploaded_by>
         <create_date>2025-12-10</create_date>
@@ -27,8 +26,8 @@
 
     <!-- InfCAD Plugin -->
     <pyqgis_plugin name="InfCAD" version="1.0">
-        <description><![CDATA[Herramientas de procesamiento para proyectos InfCOP. Limpieza, conversión a líneas y gestión de atributos LAYER]]></description>
-        <about><![CDATA[Plugin para procesar shapefiles de InfCOP, corregir geometrías, integrar edificaciones y generar líneas limpias para DXF]]></about>
+        <description><![CDATA[Herramientas de procesamiento para proyectos InfCOP. Limpieza, conversión a líneas y gestión de atributos LAYER.]]></description>
+        <about><![CDATA[Plugin para procesar shapefiles de InfCOP, corregir geometrías, integrar edificaciones y generar líneas limpias para DXF.]]></about>
         <version>1.0</version>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <qgis_maximum_version>3.99</qgis_maximum_version>
@@ -36,16 +35,15 @@
         <file_name>InfCAD.zip</file_name>
         <icon></icon>
         <author_name><![CDATA[Jose Martin Vazquez Morandeira (nitraM)]]></author_name>
-        <!-- CRÍTICO: Esta URL debe ser correcta -->
         <download_url>https://nitram1973.github.io/nitraM/InfCAD/InfCAD.zip</download_url>
         <uploaded_by><![CDATA[nitraM]]></uploaded_by>
         <create_date>2025-12-11</create_date>
         <update_date>2025-12-11</update_date>
-        <experimental>False</experimental>
+        <experimental>True</experimental>
         <deprecated>False</deprecated>
         <tracker><![CDATA[https://github.com/nitraM1973/InfCAD/issues]]></tracker>
         <repository><![CDATA[https://github.com/nitraM1973/InfCAD]]></repository>
-        <tags><![CDATA[topology,dxf,cleaning,cad,InfCOP]]></tags>
+        <tags><![CDATA[topology,dxf,cleaning,cad,infcop]]></tags>
         <category>Vector</category>
     </pyqgis_plugin>
 </plugins>
