@@ -69,7 +69,8 @@
         <tags><![CDATA[topology,dxf,cleaning,cad,comparar]]></tags>
         <category>Vector</category>
     </pyqgis_plugin>
-    <!-- ValGIS Plugin -->
+    
+    <!-- AudiNOT Plugin -->
     <pyqgis_plugin name="AudiNOT" version="1.0">
         <description><![CDATA[Análisis comparativo técnico de recintos (Antes/Después) con auditoría de aditamentos y trasvases.]]></description>
         <about><![CDATA[Sistema de auditoría para análisis de variaciones ANTES vs DESPUES.]]></about>
