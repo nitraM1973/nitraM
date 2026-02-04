@@ -14,7 +14,11 @@ Plugin para procesar shapefiles de InfCOP, corregir geometrías, integrar edific
 Este plugin compara dos capas vectoriales, identifica diferencias geometricas y genera un reporte HTML detallado.
 - **Versión**: 1.0
 - **QGIS**: 3.0 - 3.99
-
+### AudiNOT v1.0
+Este plugin compara dos situacions ANTES y DESPUES además de con ADITAMENTOS ANTES/DESPUES e identifica mediante métircas precisas las variacins que, dentro de unos umbrales configurables, hacen necesaria la notirifación a los interesados.
+- **Versión**: 1.0
+- **QGIS**: 3.0 - 3.99
+- 
 ## 🔧 Cómo Usar Este Repositorio
 ### En QGIS:
 1. Abrir QGIS
