@@ -69,4 +69,26 @@
         <tags><![CDATA[topology,dxf,cleaning,cad,comparar]]></tags>
         <category>Vector</category>
     </pyqgis_plugin>
+    <!-- ValGIS Plugin -->
+    <pyqgis_plugin name="AudiNOT" version="1.0">
+        <description><![CDATA[Análisis comparativo técnico de recintos (Antes/Después) con auditoría de aditamentos y trasvases.]]></description>
+        <about><![CDATA[Sistema de auditoría para análisis de variaciones ANTES vs DESPUES.]]></about>
+        <version>1.0</version>
+        <qgis_minimum_version>3.0</qgis_minimum_version>
+        <qgis_maximum_version>3.99</qgis_maximum_version>
+        <homepage><![CDATA[https://github.com/nitraM1973/AudiNOT]]></homepage>
+        <file_name>AudiNOT.zip</file_name>
+        <icon></icon>
+        <author_name><![CDATA[Jose Martin Vazquez Morandeira (nitraM)]]></author_name>
+        <download_url>https://nitram1973.github.io/nitraM/AudiNOT/AudiNOT/AudiNOT.zip</download_url>
+        <uploaded_by><![CDATA[nitraM]]></uploaded_by>
+        <create_date>2026-02-04</create_date>
+        <update_date>2026-02-04</update_date>
+        <experimental>False</experimental>
+        <deprecated>False</deprecated>
+        <tracker><![CDATA[https://github.com/nitraM1973/AudiNOT/issues]]></tracker>
+        <repository><![CDATA[https://github.com/nitraM1973/AudiNOT]]></repository>
+        <tags><![CDATA[audit, geometry, parcels, comparison]]></tags>
+        <category>Vector</category>
+    </pyqgis_plugin>    
 </plugins>
