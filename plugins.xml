@@ -71,10 +71,10 @@
     </pyqgis_plugin>
     
     <!-- AudiNOT Plugin -->
-    <pyqgis_plugin name="AudiNOT" version="2.0">
+    <pyqgis_plugin name="AudiNOT" version="2.0.0">
         <description><![CDATA[Análisis comparativo técnico de recintos (Antes/Después) con auditoría de aditamentos y trasvases.]]></description>
         <about><![CDATA[Sistema de auditoría para análisis de variaciones ANTES vs DESPUES.]]></about>
-        <version>2.0</version>
+        <version>2.0.0</version>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <qgis_maximum_version>3.99</qgis_maximum_version>
         <homepage><![CDATA[https://github.com/nitraM1973/AudiNOT]]></homepage>
@@ -84,7 +84,7 @@
         <download_url>https://nitram1973.github.io/nitraM/AudiNOT/AudiNOT.zip</download_url>
         <uploaded_by><![CDATA[nitraM]]></uploaded_by>
         <create_date>2026-02-04</create_date>
-        <update_date>2026-02-04</update_date>
+        <update_date>2026-02-05</update_date>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <tracker><![CDATA[https://github.com/nitraM1973/AudiNOT/issues]]></tracker>
