@@ -2,10 +2,10 @@
 <?xml-stylesheet type="text/xsl" href="plugins.xsl" ?>
 <plugins>
     <!-- ValGIS Plugin -->
-    <pyqgis_plugin name="ValGIS" version="4.1">
+    <pyqgis_plugin name="ValGIS" version="4.2">
         <description><![CDATA[Limpieza topologica y generacion de poligonos]]></description>
         <about><![CDATA[Herramienta paso a paso para limpiar DXF y crear topologias]]></about>
-        <version>3.1</version>
+        <version>4.2</version>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <qgis_maximum_version>3.99</qgis_maximum_version>
         <homepage><![CDATA[https://github.com/nitraM1973/ValGIS]]></homepage>
@@ -14,8 +14,8 @@
         <author_name><![CDATA[Jose Martin Vazquez Morandeira (nitraM)]]></author_name>
         <download_url>https://nitram1973.github.io/nitraM/ValGIS/ValGIS.zip</download_url>
         <uploaded_by><![CDATA[nitraM]]></uploaded_by>
-        <create_date>2026-04-22</create_date>
-        <update_date>2025-04-22</update_date>
+        <create_date>2026-04-28</create_date>
+        <update_date>2025-04-28</update_date>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <tracker><![CDATA[https://github.com/nitraM1973/ValGIS/issues]]></tracker>
