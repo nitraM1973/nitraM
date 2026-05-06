@@ -2,10 +2,10 @@
 # Repositorio de Plugins QGIS - nitraM
 Repositorio personalizado de plugins QGIS.
 ## 📦 Plugins Disponibles
-### ValGIS v4.2
+### ValGIS v4.5
 Herramienta de limpieza topológica y generación de polígonos.
-- **Versión**: 4.2
-- **QGIS**: 3.0 - 3.99
+- **Versión**: 4.5
+- **QGIS**: 3.20 - 3.99
 ### InfCAD v1.0
 Plugin para procesar shapefiles de InfCOP, corregir geometrías, integrar edificaciones y generar líneas limpias para DXF.
 - **Versión**: 1.0
