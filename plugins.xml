@@ -2,11 +2,11 @@
 <?xml-stylesheet type="text/xsl" href="plugins.xsl" ?>
 <plugins>
     <!-- ValGIS Plugin -->
-    <pyqgis_plugin name="ValGIS" version="4.2">
+    <pyqgis_plugin name="ValGIS" version="4.5">
         <description><![CDATA[Limpieza topologica y generacion de poligonos]]></description>
         <about><![CDATA[Herramienta paso a paso para limpiar DXF y crear topologias]]></about>
-        <version>4.2</version>
-        <qgis_minimum_version>3.0</qgis_minimum_version>
+        <version>4.5</version>
+        <qgis_minimum_version>3.20</qgis_minimum_version>
         <qgis_maximum_version>3.99</qgis_maximum_version>
         <homepage><![CDATA[https://github.com/nitraM1973/ValGIS]]></homepage>
         <file_name>ValGIS.zip</file_name>
