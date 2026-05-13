@@ -19,7 +19,7 @@
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <tracker><![CDATA[https://github.com/nitraM1973/ValGIS/issues]]></tracker>
-        <repository><![CDATA[https://github.com/nitraM1973/ValGIS]]></repository>
+        <repository></repository>
         <tags><![CDATA[topology,dxf,cleaning,cad,catastro]]></tags>
         <category>Vector</category>
     </pyqgis_plugin>
@@ -42,7 +42,7 @@
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <tracker><![CDATA[https://github.com/nitraM1973/InfCAD/issues]]></tracker>
-        <repository><![CDATA[https://github.com/nitraM1973/InfCAD]]></repository>
+        <repository></repository>
         <tags><![CDATA[topology,dxf,cleaning,cad,infcop]]></tags>
         <category>Vector</category>
     </pyqgis_plugin>
@@ -65,7 +65,7 @@
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <tracker><![CDATA[https://github.com/nitraM1973/ComGIS/issues]]></tracker>
-        <repository><![CDATA[https://github.com/nitraM1973/ComGIS]]></repository>
+        <repository></repository>
         <tags><![CDATA[topology,dxf,cleaning,cad,comparar]]></tags>
         <category>Vector</category>
     </pyqgis_plugin>
@@ -88,7 +88,7 @@
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <tracker><![CDATA[https://github.com/nitraM1973/AudiNOT/issues]]></tracker>
-        <repository><![CDATA[https://github.com/nitraM1973/AudiNOT]]></repository>
+        <repository></repository>
         <tags><![CDATA[audit, geometry, parcels, comparison]]></tags>
         <category>Vector</category>
     </pyqgis_plugin>    
