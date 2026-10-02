@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="plugins.xsl" ?>
 <plugins>
     <!-- ValGIS Plugin -->
-    <pyqgis_plugin name="ValGIS" version="4.6">
+    <pyqgis_plugin name="ValGIS" version="5.0">
         <description><![CDATA[Limpieza topologica y generacion de poligonos]]></description>
         <about><![CDATA[Herramienta paso a paso para limpiar DXF y crear topologias]]></about>
         <version>5.0</version>
@@ -25,10 +25,10 @@
     </pyqgis_plugin>
 
     <!-- InfCAD Plugin -->
-    <pyqgis_plugin name="InfCAD" version="2.0">
+    <pyqgis_plugin name="InfCAD" version="2.1">
         <description><![CDATA[Herramientas de procesamiento para proyectos InfCOP. Limpieza, conversión a líneas y gestión de atributos LAYER.]]></description>
         <about><![CDATA[Plugin para procesar shapefiles de InfCOP, corregir geometrías, integrar edificaciones y generar líneas limpias para DXF.]]></about>
-        <version>2.0</version>
+        <version>2.1</version>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <qgis_maximum_version>3.99</qgis_maximum_version>
         <homepage><![CDATA[https://github.com/nitraM1973/InfCAD]]></homepage>
@@ -38,7 +38,7 @@
         <download_url>https://nitram1973.github.io/nitraM/InfCAD/InfCAD.zip</download_url>
         <uploaded_by><![CDATA[nitraM]]></uploaded_by>
         <create_date>2025-12-11</create_date>
-        <update_date>2025-12-11</update_date>
+        <update_date>2026-10-02</update_date>
         <experimental>False</experimental>
         <deprecated>False</deprecated>
         <tracker><![CDATA[https://github.com/nitraM1973/InfCAD/issues]]></tracker>
